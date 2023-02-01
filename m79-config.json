@@ -1,14 +1,1 @@
-{
-    "version":1,
-    "api": "http://194.233.94.220:8042/",
-    "startappconfig": "http://194.233.94.220:8042/b3c2a0e8f7d21685cbc258a424eea090?isInner=0",
-    "urlRemote": "https://up79.xyz/men79_hotupdate/bundle-remote/",
-    "urlRemoteIos": "https://up79.xyz/men79_hotupdate/bundle-remote/",
-    "urlRemoteTest": "https://up79.xyz/men79_hotupdate/bundle-remote-test/",
-    "newVersion": 0,
-    "downloadUrlIOS": "",
-    "downloadUrlAndroid": "",
-    "listAcc": [
-      
-    ]
-}
+dt:"ewogICAgInZlcnNpb24iOjEsCiAgICAiYXBpIjogImh0dHA6Ly8xOTQuMjMzLjk0LjIyMDo4MDQyLyIsCiAgICAic3RhcnRhcHBjb25maWciOiAiaHR0cDovLzE5NC4yMzMuOTQuMjIwOjgwNDIvYjNjMmEwZThmN2QyMTY4NWNiYzI1OGE0MjRlZWEwOTA/aXNJbm5lcj0wIiwKICAgICJ1cmxSZW1vdGUiOiAiaHR0cHM6Ly91cDc5Lnh5ei9tZW43OV9ob3R1cGRhdGUvYnVuZGxlLXJlbW90ZS8iLAogICAgInVybFJlbW90ZUlvcyI6ICJodHRwczovL3VwNzkueHl6L21lbjc5X2hvdHVwZGF0ZS9idW5kbGUtcmVtb3RlLyIsCiAgICAidXJsUmVtb3RlVGVzdCI6ICJodHRwczovL3VwNzkueHl6L21lbjc5X2hvdHVwZGF0ZS9idW5kbGUtcmVtb3RlLXRlc3QvIiwKICAgICJuZXdWZXJzaW9uIjogMCwKICAgICJkb3dubG9hZFVybElPUyI6ICIiLAogICAgImRvd25sb2FkVXJsQW5kcm9pZCI6ICIiLAogICAgImxpc3RBY2MiOiBbCiAgICAgIAogICAgXQp9"
