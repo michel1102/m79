@@ -1,0 +1,14 @@
+{
+    "version":1,
+    "api": "http://194.233.94.220:8042/",
+    "startappconfig": "http://194.233.94.220:8042/b3c2a0e8f7d21685cbc258a424eea090?isInner=0",
+    "urlRemote": "https://up79.xyz/men79_hotupdate/bundle-remote/",
+    "urlRemoteIos": "https://up79.xyz/men79_hotupdate/bundle-remote/",
+    "urlRemoteTest": "https://up79.xyz/men79_hotupdate/bundle-remote-test/",
+    "newVersion": 0,
+    "downloadUrlIOS": "",
+    "downloadUrlAndroid": "",
+    "listAcc": [
+      
+    ]
+}
